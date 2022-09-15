@@ -1,0 +1,8 @@
+﻿<metadata>
+  <attr path="/api/package[@name='com.twilio.video']" name="managedName">TwilioVideo</attr>>
+
+  <attr path="/api/package[@name='tvi.webrtc']/class[@name='StatsReport.Value']" name="managedName">StatsReportValue</attr>
+
+  <attr path="/api/package[@name='tvi.webrtc']/interface[@name='CameraSession']" name="visibility">public</attr>
+ 
+</metadata>
